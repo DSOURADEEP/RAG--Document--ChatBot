@@ -1,5 +1,11 @@
 # 🤖 RAG Chatbot - Chat with Your Documents
 
+![RAG Chatbot Homepage](images/Homepage.png)
+
+## 🚀 Live Demo
+
+**Try the live app:** [RAG Document Chatbot](https://rag--document--chatbot-rmryt6xwrpqp4frugamxvs.streamlit.app/)
+
 A fully free Retrieval-Augmented Generation (RAG) chatbot application built with Streamlit and Hugging Face models. Upload documents (PDF, TXT, images) and chat with their contents using AI, completely free and running locally for embeddings.
 
 ## ✨ Features
